@@ -1,0 +1,29 @@
+body{
+    background: rgb(219, 235, 219)
+}
+.nav{
+    background:rgb(0, 255, 157);
+    height: 60px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+h1{
+    text-align: center;
+}
+
+.left{
+    background:rgb(8, 162, 223);
+    height: 40px;
+    
+}
+.right{
+    /* background:rgb(207, 135, 195); */
+    background:rgb(133, 94, 45);
+    height: 40px;
+}
+.footer{
+    background:rgb(12, 89, 141);
+    height: 60px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
